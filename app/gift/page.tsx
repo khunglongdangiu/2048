@@ -59,22 +59,21 @@ export default function GiftPage() {
               <div className="p-6 md:p-8">
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="relative h-64 md:h-full rounded-lg overflow-hidden">
-                    <Image src="/placeholder.svg?height=400&width=300" alt="Gift image" fill className="object-cover" />
+                    <Image src="image.png?height=400&width=300" alt="Gift image" fill className="object-cover" />
                   </div>
                   <div className="flex flex-col justify-center space-y-4">
-                    <h2 className="text-2xl font-bold text-purple-800">Congratulations!</h2>
+                    <h2 className="text-2xl font-bold text-purple-800">Chúc mừng Ly nhen!</h2>
                     <p className="text-purple-700">
-                      You've achieved something amazing, and I'm so proud of you! This gift card is a small token to
-                      celebrate your graduation.
+                      Ly đã đạt được điều tuyệt vời, Đinh Lộc rất tự hào về bạn! Tấm ảnh này trong máy Đinh Lộc suốt bấy lâu nay, Lộc trả Hương Ly
                     </p>
                     <div className="bg-purple-50 p-4 rounded-lg border border-purple-200">
                       <p className="text-purple-800 font-medium">
-                        May your future be as bright as your accomplishments. Here's to new beginnings!
+                        Mong tương lai của Ly tươi sáng. Đây là khởi đầu mới!
                       </p>
                     </div>
                     <div className="flex items-center gap-2 text-purple-600">
                       <Heart className="h-5 w-5 fill-purple-600" />
-                      <span>With love and pride</span>
+                      <span>Với tình yêu và niềm tự hào. Thân mến, Đinh Lộc</span>
                     </div>
                   </div>
                 </div>
