@@ -10,7 +10,7 @@ export default function HomePage() {
   const [gameCompleted, setGameCompleted] = useState(false)
   const [showGift, setShowGift] = useState(false)
   const [isLoading, setIsLoading] = useState(true)
-  const [password] = useState("366336") // Fixed password as requested
+  const [password] = useState("261222") // Fixed password as requested
   const [showPassword, setShowPassword] = useState(false)
 
   // Simulate loading to ensure game is ready
