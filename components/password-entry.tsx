@@ -139,7 +139,7 @@ export default function PasswordEntry({ password, onPasswordSuccess, showGenerat
                 animate={{ opacity: 1 }}
                 className="text-center text-sm text-purple-600 mt-4"
               >
-                Hint: The code is 366336
+                Hint: The code is 261222
               </motion.p>
             )}
           </form>
